@@ -1,0 +1,14 @@
+prefix=/Users/sarvadshetty/Documents/machine_learning/heart_disease_project/env
+exec_prefix=/Users/sarvadshetty/Documents/machine_learning/heart_disease_project/env
+libdir=/Users/sarvadshetty/Documents/machine_learning/heart_disease_project/env/lib
+includedir=/Users/sarvadshetty/Documents/machine_learning/heart_disease_project/env/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 22.1.16
+Requires:
+Requires.private: zlib, libpng
+Libs: -L${libdir} -lfreetype
+Libs.private: 
+Cflags: -I${includedir}/freetype2

@@ -1,0 +1,40 @@
+{
+  "build": "py38h6440ff4_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=4.0.1",
+    "mkl >=2019.4,<2020.0a0",
+    "mkl-service >=2,<3.0a0",
+    "numpy >=1.11.3,<2.0a0",
+    "python >=3.8,<3.9.0a0",
+    "blas * mkl"
+  ],
+  "extracted_package_dir": "/Users/sarvadshetty/anaconda3/pkgs/mkl_random-1.1.0-py38h6440ff4_0",
+  "features": "",
+  "files": [],
+  "fn": "mkl_random-1.1.0-py38h6440ff4_0.conda",
+  "legacy_bz2_md5": "aacc3c7f64cc8c7c707e2d0d5bc4edf6",
+  "legacy_bz2_size": 4821,
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "/Users/sarvadshetty/anaconda3/pkgs/mkl_random-1.1.0-py38h6440ff4_0",
+    "type": 1
+  },
+  "md5": "7d025d1fdb5fda7917ef3613b09a98a7",
+  "name": "mkl_random",
+  "package_tarball_full_path": "/Users/sarvadshetty/anaconda3/pkgs/mkl_random-1.1.0-py38h6440ff4_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "mkl_random==1.1.0=py38h6440ff4_0",
+  "sha256": "2252996b875a43683c0fc65a9453b881e11ca607eccaaaddb1a882665447ce87",
+  "size": 5251,
+  "subdir": "osx-64",
+  "timestamp": 1573749598127,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/mkl_random-1.1.0-py38h6440ff4_0.conda",
+  "version": "1.1.0"
+}
